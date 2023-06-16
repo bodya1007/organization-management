@@ -1,1 +1,1 @@
-After cloning the project, you need to execute the npm install command, after this command, run the project, after the project starts, execute the npm run typeorm:migrate command, and after this command is executed, you can test the project
+After cloning the project, you need to run npm install command, after that create a database with a certain name, after this command run the project, after running the project, run npm run typeorm:migrate command, and after running this command, you can test the project
